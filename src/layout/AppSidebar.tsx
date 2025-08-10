@@ -262,7 +262,7 @@ const AppSidebar: React.FC = () => {
                 width={32}
                 height={32}
               />
-              <h2 className="font-semibold text-lg">SR Admin Panel</h2>
+              <h2 className="font-semibold text-lg">Admin Panel</h2>
             </div>
           ) : (
             <img
